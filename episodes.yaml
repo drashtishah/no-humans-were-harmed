@@ -6,3 +6,10 @@ episodes:
     duration: "00:53:23"
     file_size: 102760448
     episode_number: 1
+  - title: "EvoScientist — AI Agents for Scientific Discovery"
+    description: "What happens when you let AI agents design their own experiments. EvoScientist builds hypotheses, runs tests, and iterates on results. No human scientist in the loop. This episode breaks down how it works and what it means. Generated with Google NotebookLM."
+    date: "2026-03-30"
+    audio_url: "https://github.com/drashtishah/no-humans-were-harmed/releases/download/ep002-evoscientist/evoscientist.m4a"
+    duration: "00:39:53"
+    file_size: 77025874
+    episode_number: 2

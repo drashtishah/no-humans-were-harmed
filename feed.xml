@@ -32,5 +32,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:episode>1</itunes:episode>
   </item>
+  <item>
+    <title>EvoScientist — AI Agents for Scientific Discovery</title>
+    <description>What happens when you let AI agents design their own experiments. EvoScientist builds hypotheses, runs tests, and iterates on results. No human scientist in the loop. This episode breaks down how it works and what it means. Generated with Google NotebookLM.</description>
+    <content:encoded><![CDATA[<p>What happens when you let AI agents design their own experiments. EvoScientist builds hypotheses, runs tests, and iterates on results. No human scientist in the loop. This episode breaks down how it works and what it means. Generated with Google NotebookLM.</p>]]></content:encoded>
+    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://github.com/drashtishah/no-humans-were-harmed/releases/download/ep002-evoscientist/evoscientist.m4a" length="77025874" type="audio/x-m4a"/>
+    <guid isPermaLink="false">https://github.com/drashtishah/no-humans-were-harmed/releases/download/ep002-evoscientist/evoscientist.m4a</guid>
+    <itunes:summary>What happens when you let AI agents design their own experiments. EvoScientist builds hypotheses, runs tests, and iterates on results. No human scientist in the loop. This episode breaks down how it works and what it means. Generated with Google NotebookLM.</itunes:summary>
+    <itunes:duration>00:39:53</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episode>2</itunes:episode>
+  </item>
 </channel>
 </rss>
