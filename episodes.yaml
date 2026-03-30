@@ -1,1 +1,8 @@
-episodes: []
+episodes:
+  - title: "CLI Tools for AI Agents"
+    description: "Agents need tools. The simplest ones live in the terminal. Git, shell commands, APIs. This episode walks through how to build them. What makes a tool agent-friendly. Why the command line still matters. Generated with Google NotebookLM."
+    date: "2026-03-30"
+    audio_url: "https://github.com/drashtishah/no-humans-were-harmed/releases/download/ep001-cli-tools/cli-tools-for-ai-agents.m4a"
+    duration: "00:53:23"
+    file_size: 102760448
+    episode_number: 1

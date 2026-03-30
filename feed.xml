@@ -20,6 +20,17 @@
   <itunes:category text="Technology">
     <itunes:category text="Tech News"/>
   </itunes:category>
-
+  <item>
+    <title>CLI Tools for AI Agents</title>
+    <description>Agents need tools. The simplest ones live in the terminal. Git, shell commands, APIs. This episode walks through how to build them. What makes a tool agent-friendly. Why the command line still matters. Generated with Google NotebookLM.</description>
+    <content:encoded><![CDATA[<p>Agents need tools. The simplest ones live in the terminal. Git, shell commands, APIs. This episode walks through how to build them. What makes a tool agent-friendly. Why the command line still matters. Generated with Google NotebookLM.</p>]]></content:encoded>
+    <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://github.com/drashtishah/no-humans-were-harmed/releases/download/ep001-cli-tools/cli-tools-for-ai-agents.m4a" length="102760448" type="audio/x-m4a"/>
+    <guid isPermaLink="false">https://github.com/drashtishah/no-humans-were-harmed/releases/download/ep001-cli-tools/cli-tools-for-ai-agents.m4a</guid>
+    <itunes:summary>Agents need tools. The simplest ones live in the terminal. Git, shell commands, APIs. This episode walks through how to build them. What makes a tool agent-friendly. Why the command line still matters. Generated with Google NotebookLM.</itunes:summary>
+    <itunes:duration>00:53:23</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episode>1</itunes:episode>
+  </item>
 </channel>
 </rss>
