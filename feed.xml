@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>No Humans Were Harmed</title>
+  <description>No humans were harmed in the making of this podcast. No burnout, no late nights, no stress. Just AI doing the reading so humans don't have to. Tech and science deep dives, generated entirely by machines.</description>
+  <language>en</language>
+  <link>https://github.com/drashtishah/no-humans-were-harmed</link>
+  <atom:link href="https://drashtishah.github.io/no-humans-were-harmed/feed.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Drashti Shah</itunes:author>
+  <itunes:summary>No humans were harmed in the making of this podcast. No burnout, no late nights, no stress. Just AI doing the reading so humans don't have to. Tech and science deep dives, generated entirely by machines.</itunes:summary>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:owner>
+    <itunes:name>Drashti Shah</itunes:name>
+    <itunes:email>6rashti5hah@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://drashtishah.github.io/no-humans-were-harmed/cover.jpg"/>
+  <itunes:category text="Technology">
+    <itunes:category text="Tech News"/>
+  </itunes:category>
+
+</channel>
+</rss>

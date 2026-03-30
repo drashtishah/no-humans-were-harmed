@@ -1,0 +1,37 @@
+name: Generate Podcast Feed
+
+on:
+  push:
+    paths:
+      - 'episodes.yaml'
+      - 'podcast.yaml'
+      - 'generate_feed.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Generate RSS feed
+        run: python generate_feed.py
+
+      - name: Commit and push feed.xml
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          git diff --cached --quiet || git commit -m "Update podcast feed"
+          git push
