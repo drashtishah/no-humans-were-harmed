@@ -1,20 +1,20 @@
 episodes:
   - title: "CLI Tools for AI Agents"
-    description: "Agents need tools. The simplest ones live in the terminal. Git, shell commands, APIs. This episode walks through how to build them. What makes a tool agent-friendly. Why the command line still matters. Generated with Google NotebookLM."
+    description: "Agents need tools. The simplest ones live in the terminal. Git, shell commands, APIs. This episode walks through how to build them. What makes a tool agent-friendly. Why the command line still matters. Based on 76 sources. Generated with Google NotebookLM."
     date: "2026-03-30"
     audio_url: "https://github.com/drashtishah/no-humans-were-harmed/releases/download/ep001-cli-tools/cli-tools-for-ai-agents.m4a"
     duration: "00:53:23"
     file_size: 102760448
     episode_number: 1
   - title: "EvoScientist — AI Agents for Scientific Discovery"
-    description: "What happens when you let AI agents design their own experiments. EvoScientist builds hypotheses, runs tests, and iterates on results. No human scientist in the loop. This episode breaks down how it works and what it means. Generated with Google NotebookLM."
+    description: "What happens when you let AI agents design their own experiments. EvoScientist builds hypotheses, runs tests, and iterates on results. No human scientist in the loop. This episode breaks down how it works and what it means. Based on 36 sources. Generated with Google NotebookLM."
     date: "2026-03-30"
     audio_url: "https://github.com/drashtishah/no-humans-were-harmed/releases/download/ep002-evoscientist/evoscientist.m4a"
     duration: "00:39:53"
     file_size: 77025874
     episode_number: 2
   - title: "Shipping Code Without Breaking Things"
-    description: "Feature flags. Canary deployments. Blue-green swaps. The tools that let you push to production and sleep at night. Also: what changes when an AI agent wrote the code you're shipping. Generated with Google NotebookLM."
+    description: "Feature flags. Canary deployments. Blue-green swaps. The tools that let you push to production and sleep at night. Also: what changes when an AI agent wrote the code you're shipping. Based on 56 sources. Generated with Google NotebookLM."
     date: "2026-03-31"
     audio_url: "https://github.com/drashtishah/no-humans-were-harmed/releases/download/ep003-feature-flags/feature-flags-safe-production.m4a"
     duration: "01:05:28"
