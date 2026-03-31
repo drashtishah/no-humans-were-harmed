@@ -13,3 +13,10 @@ episodes:
     duration: "00:39:53"
     file_size: 77025874
     episode_number: 2
+  - title: "Feature Flags & Safe Production Deployment"
+    description: "How to ship code without breaking things. Feature flags, canary deployments, blue-green deployments, trunk-based development. What changes when AI agents write the code — and why testing agent-written code is a different problem from testing agents. Generated with Google NotebookLM."
+    date: "2026-03-31"
+    audio_url: "https://github.com/drashtishah/no-humans-were-harmed/releases/download/ep003-feature-flags/feature-flags-safe-production.m4a"
+    duration: "01:05:28"
+    file_size: 126440168
+    episode_number: 3
