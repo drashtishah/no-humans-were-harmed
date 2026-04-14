@@ -2,6 +2,8 @@ name: Generate Podcast Feed
 
 on:
   push:
+    branches:
+      - master
     paths:
       - 'episodes.yaml'
       - 'podcast.yaml'
