@@ -21,6 +21,18 @@
     <itunes:category text="Tech News"/>
   </itunes:category>
   <item>
+    <title>Lambda as Momentary Deities</title>
+    <description>An imaginary world built on AWS Lambda. Functions live for a moment, serve a prayer, then vanish. Cold starts as reincarnation. Provisioned concurrency as a priesthood. A deep dive into how Lambda actually works — cold starts, concurrency, the execution model — through the lens of a world where compute is divine. Based on 61 sources. Generated with Google NotebookLM.</description>
+    <content:encoded><![CDATA[<p>An imaginary world built on AWS Lambda. Functions live for a moment, serve a prayer, then vanish. Cold starts as reincarnation. Provisioned concurrency as a priesthood. A deep dive into how Lambda actually works — cold starts, concurrency, the execution model — through the lens of a world where compute is divine. Based on 61 sources. Generated with Google NotebookLM.</p>]]></content:encoded>
+    <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://github.com/drashtishah/no-humans-were-harmed/releases/download/ep004-lambda-deities/aws-lambda-deities.m4a" length="95801314" type="audio/x-m4a"/>
+    <guid isPermaLink="false">https://github.com/drashtishah/no-humans-were-harmed/releases/download/ep004-lambda-deities/aws-lambda-deities.m4a</guid>
+    <itunes:summary>An imaginary world built on AWS Lambda. Functions live for a moment, serve a prayer, then vanish. Cold starts as reincarnation. Provisioned concurrency as a priesthood. A deep dive into how Lambda actually works — cold starts, concurrency, the execution model — through the lens of a world where compute is divine. Based on 61 sources. Generated with Google NotebookLM.</itunes:summary>
+    <itunes:duration>00:49:36</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episode>4</itunes:episode>
+  </item>
+  <item>
     <title>Shipping Code Without Breaking Things</title>
     <description>Feature flags. Canary deployments. Blue-green swaps. The tools that let you push to production and sleep at night. Also: what changes when an AI agent wrote the code you're shipping. Based on 56 sources. Generated with Google NotebookLM.</description>
     <content:encoded><![CDATA[<p>Feature flags. Canary deployments. Blue-green swaps. The tools that let you push to production and sleep at night. Also: what changes when an AI agent wrote the code you're shipping. Based on 56 sources. Generated with Google NotebookLM.</p>]]></content:encoded>

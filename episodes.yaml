@@ -20,3 +20,10 @@ episodes:
     duration: "01:05:28"
     file_size: 126440168
     episode_number: 3
+  - title: "Lambda as Momentary Deities"
+    description: "An imaginary world built on AWS Lambda. Functions live for a moment, serve a prayer, then vanish. Cold starts as reincarnation. Provisioned concurrency as a priesthood. A deep dive into how Lambda actually works — cold starts, concurrency, the execution model — through the lens of a world where compute is divine. Based on 61 sources. Generated with Google NotebookLM."
+    date: "2026-04-14"
+    audio_url: "https://github.com/drashtishah/no-humans-were-harmed/releases/download/ep004-lambda-deities/aws-lambda-deities.m4a"
+    duration: "00:49:36"
+    file_size: 95801314
+    episode_number: 4
