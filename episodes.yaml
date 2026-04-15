@@ -27,3 +27,10 @@ episodes:
     duration: "00:49:36"
     file_size: 95801314
     episode_number: 4
+  - title: "Hot Neighbourhoods"
+    description: "In this world, where you live determines how fast you can move. DynamoDB is built on physical partitions — underground districts that divide the city's total capacity. Each district has a hard ceiling: 1,000 writes per second, 3,000 reads. When one gets too popular, it throttles. The table's total capacity doesn't matter. Only your district's does. This is a sci-fi world built on how DynamoDB partitioning actually works. Based on 46 sources. Generated with Google NotebookLM."
+    date: "2026-04-15"
+    audio_url: "https://github.com/drashtishah/no-humans-were-harmed/releases/download/ep005-dynamodb-partitions/dynamodb-partitions.m4a"
+    duration: "00:43:50"
+    file_size: 84646957
+    episode_number: 5

@@ -21,6 +21,18 @@
     <itunes:category text="Tech News"/>
   </itunes:category>
   <item>
+    <title>Hot Neighbourhoods</title>
+    <description>In this world, where you live determines how fast you can move. DynamoDB is built on physical partitions — underground districts that divide the city's total capacity. Each district has a hard ceiling: 1,000 writes per second, 3,000 reads. When one gets too popular, it throttles. The table's total capacity doesn't matter. Only your district's does. This is a sci-fi world built on how DynamoDB partitioning actually works. Based on 46 sources. Generated with Google NotebookLM.</description>
+    <content:encoded><![CDATA[<p>In this world, where you live determines how fast you can move. DynamoDB is built on physical partitions — underground districts that divide the city's total capacity. Each district has a hard ceiling: 1,000 writes per second, 3,000 reads. When one gets too popular, it throttles. The table's total capacity doesn't matter. Only your district's does. This is a sci-fi world built on how DynamoDB partitioning actually works. Based on 46 sources. Generated with Google NotebookLM.</p>]]></content:encoded>
+    <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://github.com/drashtishah/no-humans-were-harmed/releases/download/ep005-dynamodb-partitions/dynamodb-partitions.m4a" length="84646957" type="audio/x-m4a"/>
+    <guid isPermaLink="false">https://github.com/drashtishah/no-humans-were-harmed/releases/download/ep005-dynamodb-partitions/dynamodb-partitions.m4a</guid>
+    <itunes:summary>In this world, where you live determines how fast you can move. DynamoDB is built on physical partitions — underground districts that divide the city's total capacity. Each district has a hard ceiling: 1,000 writes per second, 3,000 reads. When one gets too popular, it throttles. The table's total capacity doesn't matter. Only your district's does. This is a sci-fi world built on how DynamoDB partitioning actually works. Based on 46 sources. Generated with Google NotebookLM.</itunes:summary>
+    <itunes:duration>00:43:50</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episode>5</itunes:episode>
+  </item>
+  <item>
     <title>Lambda as Momentary Deities</title>
     <description>An imaginary world built on AWS Lambda. Functions live for a moment, serve a prayer, then vanish. Cold starts as reincarnation. Provisioned concurrency as a priesthood. A deep dive into how Lambda actually works — cold starts, concurrency, the execution model — through the lens of a world where compute is divine. Based on 61 sources. Generated with Google NotebookLM.</description>
     <content:encoded><![CDATA[<p>An imaginary world built on AWS Lambda. Functions live for a moment, serve a prayer, then vanish. Cold starts as reincarnation. Provisioned concurrency as a priesthood. A deep dive into how Lambda actually works — cold starts, concurrency, the execution model — through the lens of a world where compute is divine. Based on 61 sources. Generated with Google NotebookLM.</p>]]></content:encoded>
